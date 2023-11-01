@@ -1,0 +1,54 @@
+.bg-pink
+{
+    background-color: palevioletred;
+}
+.margin
+{
+    margin-top: 100px;
+    margin-left: 300px;
+   
+}
+.margin-header
+{
+    margin-left: 150px;
+}
+#img
+{
+
+}
+.titulos
+{
+    margin-top: 150px;
+    text-align: center;
+}
+.text-center
+{
+    text-align: center;
+}
+.container-img {
+    position: relative;
+    text-align: center;
+  }
+.text-img
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.container2 {
+    position: relative;
+    max-width: 100%; /* Maximum width */
+    margin: 0 auto; /* Center it */
+  }
+  .container2 .content {
+    position: absolute; /* Position the background text */
+    bottom: 35%; /* At the bottom. Use top:0 to append it to the top */
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1; /* Grey text */
+    
+    
+  }
+
+
