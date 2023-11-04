@@ -50,5 +50,17 @@
     
     
   }
+  .darkened-image { 
+    filter: brightness(50%); 
+  }
+  .text-fs
+  {
+    font-size: 40px;
+  }
+  .textcol
+  {
+    justify-content: space-around;
+    font-size: 20px;
+  }
 
 
